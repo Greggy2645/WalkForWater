@@ -27,6 +27,7 @@ def shower():
         print('how the fuck did you shower over 10 mins tho')
     keuze()
 
+#still have to add the exit option here.
 eerstestartding = str(input('Type \'shower\' to calculate.\n'))
 if eerstestartding == 'shower':
     shower()
